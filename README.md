@@ -303,9 +303,7 @@ Blocked automatic external forwarding to prevent data leakage.
 
  
 
-📷 Screenshot Placeholder: 
 
-[INSERT SCREENSHOT – Mail Flow Rule Configuration Here] 
 
  
 
@@ -364,9 +362,7 @@ This simulates enterprise-level identity protection.
 
  
 
-📷 Screenshot Placeholder: 
 
-[INSERT SCREENSHOT – Conditional Access Policy Here] 
 
  
 
@@ -390,9 +386,7 @@ This simulates enterprise-level identity protection.
 
  
 
-📷 Screenshot Placeholder: 
 
-[INSERT SCREENSHOT – SharePoint Site Permissions Here] 
 
  
 
@@ -416,9 +410,7 @@ This simulates enterprise-level identity protection.
 
  
 
-📷 Screenshot Placeholder: 
-
-[INSERT SCREENSHOT – Teams Admin Center Here] 
+ 
 
  
 
