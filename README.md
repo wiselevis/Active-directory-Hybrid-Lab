@@ -100,13 +100,10 @@ WiseTech
 
 - Groups 
 
- 
+ <img width="1280" height="680" alt="AD-OU-Structure" src="https://github.com/user-attachments/assets/375b156f-ee33-4c55-8fe0-509590846079" />
 
-📷 Screenshot Placeholder: 
 
-[AD-Groups.png](https://github.com/wiselevis/Active-directory-Hybrid-Lab/blob/main/AD-Groups.png)
 
- 
 
 --- 
 
@@ -133,13 +130,9 @@ WiseTech
 - Applied group-based access control (no direct user permissions) 
 
  
+ <img width="1280" height="680" alt="AD-OU-Users" src="https://github.com/user-attachments/assets/2e016b25-36fb-47ad-b4a7-47c267bc5c47" />
 
-📷 Screenshot Placeholder: 
 
-[INSERT SCREENSHOT – AD Users and Groups Here] 
-
- 
-<img width="754" height="530" alt="GPOS" src="https://github.com/user-attachments/assets/bb4200e3-a368-40fd-bd1b-c581b3321403" />
 
 --- 
 
@@ -179,13 +172,10 @@ Permissions:
 
 Applied proper NTFS permission inheritance and avoided using “Everyone”. 
 
- 
+  
+<img width="767" height="520" alt="AD-Permission-Finance" src="https://github.com/user-attachments/assets/5004c87f-44d0-449b-9295-43aa6c4e9521" />
 
-📷 Screenshot Placeholder: 
-
-[INSERT SCREENSHOT – NTFS Permissions Configuration Here] 
-
- 
+<img width="363" height="450" alt="AD-Permission-for-finance" src="https://github.com/user-attachments/assets/51ab034a-1948-41ed-a993-7a2eea1a4347" />
 
 --- 
 
@@ -227,13 +217,10 @@ Environment Configuration:
 
 - Redirected user Documents folder to file server 
 
- 
+ <img width="754" height="530" alt="AD-GPOS" src="https://github.com/user-attachments/assets/18564849-8a29-4fe7-849d-9da42e36d74e" />
 
-📷 Screenshot Placeholder: 
 
-[INSERT SCREENSHOT – GPO Settings Here] 
 
- 
 
 --- 
 
