@@ -104,7 +104,7 @@ WiseTech
 
 📷 Screenshot Placeholder: 
 
-OU Users.png 
+AD Groups.png
 
  
 
