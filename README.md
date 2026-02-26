@@ -104,7 +104,7 @@ WiseTech
 
 📷 Screenshot Placeholder: 
 
-AD-Groups.png
+[AD-Groups.png](https://github.com/wiselevis/Active-directory-Hybrid-Lab/blob/main/AD-Groups.png)
 
  
 
