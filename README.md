@@ -276,7 +276,7 @@ Get-ADSyncScheduler
 
 <img width="1266" height="673" alt="AD-Powershell" src="https://github.com/user-attachments/assets/b12f4e43-02e5-499a-ba34-2ce188685009" />
 
- 
+ https://github.com/wiselevis/Active-directory-Hybrid-Lab/edit/main/README.md
 
 ### 6️⃣ Exchange Online Administration 
 
