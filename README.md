@@ -328,9 +328,11 @@ Blocked automatic external forwarding to prevent data leakage.
 - Tested user MFA registration process 
 
  
-<img width="1353" height="1072" alt="AD-MFA-USERS" src="https://github.com/user-attachments/assets/7163af61-e487-43a7-96ff-eba178f75b9f" />
 
- 
+
+
+ <img width="1353" height="1072" alt="AD-MFA-USERS" src="https://github.com/user-attachments/assets/13cfb660-e2a3-4e60-abf1-4a2e24dae7e9" />
+
 
  
 
