@@ -412,7 +412,8 @@ This simulates enterprise-level identity protection.
 
  
 
- 
+ <img width="1861" height="1038" alt="AD-Teams-groups" src="https://github.com/user-attachments/assets/0ed6b815-e8b3-44dc-b04e-ad4a4bb1a5b9" />
+
 
  
 
