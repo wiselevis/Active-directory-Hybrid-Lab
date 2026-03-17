@@ -1,8 +1,8 @@
-# Active Directory & Microsoft 365 Hybrid Administration Lab 
+ Active Directory & Microsoft 365 Hybrid Administration Lab 
 
  
 
-## 📌 Project Overview 
+  Project Overview 
 
  
 
@@ -22,7 +22,7 @@ This project was built using a Windows Server virtual machine (VMware) and a Mic
 
  
 
-## 🏢 Lab Scenario 
+  Lab Scenario 
 
  
 
@@ -64,11 +64,11 @@ Environment:
 
  
 
-## 🖥️ Active Directory Configuration 
+  Active Directory Configuration 
 
  
 
-### 1️⃣ OU Structure Design 
+ 1 OU Structure Design 
 
  
 
@@ -109,7 +109,7 @@ WiseTech
 
  
 
-### 2️⃣ User & Group Management 
+ 2️ User & Group Management 
 
  
 
@@ -138,7 +138,7 @@ WiseTech
 
  
 
-### 3️⃣ NTFS File Server Permissions 
+ 3️ NTFS File Server Permissions 
 
  
 
@@ -181,7 +181,7 @@ Applied proper NTFS permission inheritance and avoided using “Everyone”.
 
  
 
-### 4️⃣ Group Policy Implementation (GPO) 
+ 4️ Group Policy Implementation (GPO) 
 
  
 
@@ -226,11 +226,11 @@ Environment Configuration:
 
  
 
-## ☁️ Microsoft 365 Administration 
+  Microsoft 365 Administration 
 
  
 
-### 5️⃣ Tenant & Identity Configuration 
+ 5️ Tenant & Identity Configuration 
 
  
 
@@ -254,7 +254,7 @@ Environment Configuration:
  
 
 --- 
-## 🔄 Hybrid Identity – On-Prem AD to Microsoft Entra ID 
+  Hybrid Identity – On-Prem AD to Microsoft Entra ID 
 
  
 
@@ -262,7 +262,7 @@ I configured Azure AD Connect to synchronize on-premises Active Directory with M
 
  
 
-### ✅ Verification Performed 
+  Verification Performed 
 
  
 
@@ -277,7 +277,7 @@ I configured Azure AD Connect to synchronize on-premises Active Directory with M
 
 
 
-### 6️⃣ Exchange Online Administration 
+ 6️ Exchange Online Administration 
 
  
 
@@ -312,7 +312,7 @@ Blocked automatic external forwarding to prevent data leakage.
 
  
 
-### 7️⃣ Multi-Factor Authentication (MFA) 
+ 7️ Multi-Factor Authentication (MFA) 
 
  
 
@@ -337,7 +337,7 @@ Blocked automatic external forwarding to prevent data leakage.
 
  
 
-### 8️⃣ Conditional Access Policy 
+ 8️ Conditional Access Policy 
 
  
 
@@ -372,7 +372,7 @@ This simulates enterprise-level identity protection.
 
  
 
-## 📂 SharePoint Online Configuration 
+  SharePoint Online Configuration 
 
  
 
@@ -396,7 +396,7 @@ This simulates enterprise-level identity protection.
 
  
 
-## 💬 Microsoft Teams Administration 
+  Microsoft Teams Administration 
 
  
 
@@ -421,7 +421,7 @@ This simulates enterprise-level identity protection.
 
  
 
-## 🔐 Security & Governance Implementation 
+  Security & Governance Implementation 
 
  
 
@@ -447,7 +447,7 @@ Security measures implemented in this lab:
 
  
 
-## 🔄 Joiner, Mover, Leaver Simulation 
+  Joiner, Mover, Leaver Simulation 
 
  
 
@@ -493,7 +493,7 @@ Leaver:
 
  
 
-## 🛠️ Troubleshooting Scenarios Tested 
+  Troubleshooting Scenarios Tested 
 
  
 
@@ -513,7 +513,7 @@ Leaver:
 
  
 
-## 📚 Key Learning Outcomes 
+  Key Learning Outcomes 
 
  
 
@@ -545,7 +545,7 @@ Through this lab I gained hands-on experience in:
 
  
 
-## ✅ Conclusion 
+  Conclusion 
 
  
 
