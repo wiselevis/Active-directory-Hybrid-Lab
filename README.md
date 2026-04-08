@@ -1,4 +1,4 @@
-## Active Directory & Microsoft 365 Hybrid Administration Lab 
+# Active Directory & Microsoft 365 Hybrid Administration Lab 
 
  
 
@@ -64,11 +64,11 @@ Environment:
 
  
 
-## Active Directory Configuration 
+# Active Directory Configuration 
 
  
 
-# 1 OU Structure Design 
+## 1 OU Structure Design 
 
  
 
