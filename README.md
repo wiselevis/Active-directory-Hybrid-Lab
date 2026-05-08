@@ -173,12 +173,13 @@ Permissions:
 
 Applied proper NTFS permission inheritance and avoided using “Everyone”. 
 
-| Step 1: User Onboarding | Step 2: MFA Configuration |
-| :---: | :---: |
-<img width="767" height="520" alt="AD-Permission-Finance" src="https://github.com/user-attachments/assets/5004c87f-44d0-449b-9295-43aa6c4e9521" />
+<table>
+  <tr>
+ <td align="center"><img width="400" height="520" alt="AD-Permission-Finance" src="https://github.com/user-attachments/assets/5004c87f-44d0-449b-9295-43aa6c4e9521" /></td>
 
-<img width="363" height="450" alt="AD-Permission-for-finance" src="https://github.com/user-attachments/assets/51ab034a-1948-41ed-a993-7a2eea1a4347" />
-
+ <td align="center"><img width="400" height="450" alt="AD-Permission-for-finance" src="https://github.com/user-attachments/assets/51ab034a-1948-41ed-a993-7a2eea1a4347" /></td>
+</tr>
+</table>
 --- 
 
  
