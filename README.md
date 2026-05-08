@@ -16,7 +16,7 @@ The lab simulates a 20-user company environment and focuses on identity manageme
 
 This project was built using a Windows Server virtual machine (VMware) and a Microsoft 365 trial tenant. 
 
- <img width="800" height="800" alt="hybrid-ad-architecture" src="https://github.com/user-attachments/assets/300927af-051e-4b61-8637-62cac5d4a26b" />
+ <img width="800" height="600" alt="hybrid-ad-architecture" src="https://github.com/user-attachments/assets/300927af-051e-4b61-8637-62cac5d4a26b" />
 
 
 --- 
