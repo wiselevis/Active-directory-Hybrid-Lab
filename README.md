@@ -509,7 +509,7 @@ Leaver:
 
  
 
---- 
+---
 
  
 
@@ -539,7 +539,7 @@ Through this lab I gained hands-on experience in:
 
 - Enterprise security best practices 
 
- 
+
 
 --- 
 
